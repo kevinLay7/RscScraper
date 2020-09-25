@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "weD0eFpplmgsQgmmahBsJWqzmTIsQHrdPbzGf6A+ansHLPrYZxWS3xGJ5M7Jx4+4/oObMsVSjinRaL6grlH/Zw==",
+  "success": true,
+  "projectFilePath": "C:\\source\\RscScraper\\RscScraper\\RscScraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kevin\\.nuget\\packages\\htmlagilitypack\\1.11.24\\htmlagilitypack.1.11.24.nupkg.sha512"
+  ],
+  "logs": []
+}
